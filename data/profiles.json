@@ -1,0 +1,12 @@
+[
+    {
+      "name": "Jane Doe",
+      "summary": "Machine learning engineer with 5 years of experience.",
+      "experience": "Built NLP models, deployed TensorFlow applications, AWS SageMaker usage."
+    },
+    {
+      "name": "John Smith",
+      "summary": "Software engineer turned data scientist.",
+      "experience": "Data pipelines, scikit-learn, cloud deployment with Azure."
+    }
+  ]
